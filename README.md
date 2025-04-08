@@ -27,8 +27,10 @@ This repository contains example codes from the Compiler Design Handbook. Each e
 - [Example 4.3](Ex4.3.c): Program that calculates the FIRST set for a given context-free grammar
 
 ### Chapter 5: Intermediate Code Generation
-- [Example 5.1](Ex5.1.c): Program that generates Three-Address Code (TAC) for arithmetic expressions
-
+- [Example 5.1](Ex5.2.c): Program that generates Three-Address Code (TAC) for arithmetic expressions
+- [Example 5.2](Ex5.1.c): Program that validates if an arithmetic expression is a Three-Address Code (TAC) or not
+- [Example 5.3](Ex5.3.c): Program that checks whether a user-entered line of code is a valid for loop header or not
+  
 ### Chapter 6: Code Optimization and Generation
 - [Example 6.1](Ex6.1.c): Implementation of Basic Block Analysis from three-address code
 
